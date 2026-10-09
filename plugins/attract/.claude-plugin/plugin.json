@@ -1,0 +1,17 @@
+{
+  "name": "hire-attract",
+  "description": "Job posts and outreach that senior engineers answer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ruzora",
+    "url": "https://www.ruzora.com"
+  },
+  "homepage": "https://www.ruzora.com/skills",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "hiring",
+    "recruiting",
+    "engineering",
+    "attract"
+  ]
+}

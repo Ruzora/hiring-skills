@@ -1,0 +1,5 @@
+We're Brightpour, ~20 person startup, ordering + inventory software for craft breweries and the bars they sell to. Hiring a mid-level backend engineer (Python, Django REST Framework, Postgres, Celery for background jobs). They'll mostly work on our order sync with distributors and the invoicing side.
+
+Our current take-home is "build a REST API for managing beer orders with auth, tests and docs, 48 hours, take as long as you need". Last round we got 14 submissions and like 11 of them were basically identical, super clean, full test coverage, and then in the review call 2 of the people couldn't explain how their own auth worked. One of our better candidates (currently employed, has a toddler) dropped out because she said she didn't have a free weekend.
+
+I want something that actually tells me if someone can do the job now that everyone has Copilot/Claude. Our CTO (only other backend person) can give maybe 1 hour per candidate. We don't really care if they use AI on the job, we use it too. We could probably pay for something short at the final stage if it's worth it.

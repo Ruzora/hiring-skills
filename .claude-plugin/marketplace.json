@@ -1,0 +1,82 @@
+{
+  "name": "ruzora-hiring",
+  "owner": {
+    "name": "Ruzora",
+    "url": "https://www.ruzora.com"
+  },
+  "description": "Free skills for hiring software engineers: plan, attract, screen, interview, close, onboard.",
+  "plugins": [
+    {
+      "name": "hire-plan",
+      "source": "./plugins/plan",
+      "description": "Decide what to hire, when, and what it really costs.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "hiring",
+        "recruiting",
+        "plan"
+      ]
+    },
+    {
+      "name": "hire-attract",
+      "source": "./plugins/attract",
+      "description": "Job posts and outreach that senior engineers answer.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "hiring",
+        "recruiting",
+        "attract"
+      ]
+    },
+    {
+      "name": "hire-screen",
+      "source": "./plugins/screen",
+      "description": "Screen CVs, profiles and candidates fast, and catch fake ones.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "hiring",
+        "recruiting",
+        "screen"
+      ]
+    },
+    {
+      "name": "hire-interview",
+      "source": "./plugins/interview",
+      "description": "Interview kits, take-homes, rubrics and debriefs that predict performance.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "hiring",
+        "recruiting",
+        "interview"
+      ]
+    },
+    {
+      "name": "hire-close",
+      "source": "./plugins/close",
+      "description": "References, offers and contracts, including international hires.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "hiring",
+        "recruiting",
+        "close"
+      ]
+    },
+    {
+      "name": "hire-onboard",
+      "source": "./plugins/onboard",
+      "description": "Onboarding and the first 90 days, so the hire works out.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "hiring",
+        "recruiting",
+        "onboard"
+      ]
+    }
+  ]
+}
