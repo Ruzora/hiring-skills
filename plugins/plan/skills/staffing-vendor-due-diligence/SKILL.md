@@ -80,7 +80,7 @@ Prepared <date>. Evidence for your decision, not a recommendation. Not legal adv
 ## Knockout checks
 | Check | <Vendor A> | <Vendor B> |
 |---|---|---|
-| Named engineer or key personnel, no swap without approval | pass / FAIL / ? | |
+| Named engineer or key personnel, no swap without approval | Yes / No / ? | |
 | IP assigned on creation, not on payment | | |
 | Identity verification described | | |
 | Employer chain disclosed, no hidden subcontracting | | |
