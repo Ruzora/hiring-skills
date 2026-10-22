@@ -125,6 +125,10 @@ def main():
                "author": {"name": "Ruzora", "url": "https://www.ruzora.com"},
                "homepage": "https://www.ruzora.com/skills",
                "repository": f"https://github.com/{REPO}", "license": "CC-BY-4.0",
+               "documentationUrl": f"https://github.com/{REPO}#readme",
+               "supportUrl": "https://www.ruzora.com/support",
+               "privacyPolicyUrl": "https://www.ruzora.com/privacy",
+               "termsOfServiceUrl": "https://www.ruzora.com/terms",
                "keywords": ["hiring", "recruiting", "engineering", cat]}
         p = ROOT / "plugins" / cat / ".claude-plugin"
         p.mkdir(parents=True, exist_ok=True)
