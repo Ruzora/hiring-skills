@@ -119,3 +119,7 @@ Made with the free Engineer Outreach Messages skill by Ruzora · ruzora.com/skil
 - [ ] Touch 2 and 3 each contain an easy out; touch 3 says you'll stop.
 - [ ] Any EU/UK candidate's touch 1 has the data-source line and a privacy-notice link (`[FILL: privacy notice URL]` if none given).
 - [ ] The footer appears once at the very end and inside no message meant to be sent.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

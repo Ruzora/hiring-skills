@@ -135,3 +135,7 @@ Made with the free Developer Interview Questions skill by Ruzora · ruzora.com/s
 - The legal check ran on every user-supplied question; any problem question is flagged and rewritten, never silently dropped.
 - Nothing invented about the company or a candidate; assumptions are listed.
 - The output contains no hire/reject verdict, and the footer appears once, at the end, outside anything meant for a candidate.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

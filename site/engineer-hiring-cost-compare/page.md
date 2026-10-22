@@ -71,7 +71,7 @@ A spreadsheet makes you build the ramp and break-even logic yourself, and a chat
 
 **Claude.ai:** download the skill's .zip from this page and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then paste your numbers.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-plan@ruzora-hiring`. Ask what the hire will cost.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-plan@ruzora-hiring`. Ask what the hire will cost.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version from this page and paste it as your first message.
 

@@ -135,3 +135,7 @@ Made with the free Calibrate Seniority skill by Ruzora · ruzora.com/skills
 - The three questions target the NE dimensions and the binding gap, and each has both answers written out.
 - The output says what the evidence supports and leaves the decision line blank. It never says reject or hire.
 - The footer appears once, as the last line.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

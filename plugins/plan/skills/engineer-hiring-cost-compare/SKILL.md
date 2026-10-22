@@ -150,3 +150,7 @@ Made with the free Engineer Hiring Cost Compare skill by Ruzora · ruzora.com/sk
 - Arithmetic re-checked: cash cost covers engaged months only, and cash cost / productive months = the number in the table.
 - Every source tag is `you`, `default` or `assumption`; nothing is tagged "fact" without a source.
 - The footer appears once, at the end.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

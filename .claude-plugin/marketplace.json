@@ -12,6 +12,12 @@
       "description": "Decide what to hire, when, and what it really costs.",
       "version": "1.0.0",
       "category": "productivity",
+      "author": {
+        "name": "Ruzora",
+        "url": "https://www.ruzora.com"
+      },
+      "homepage": "https://www.ruzora.com/skills",
+      "repository": "https://github.com/Ruzora/hiring-skills",
       "tags": [
         "hiring",
         "recruiting",
@@ -24,6 +30,12 @@
       "description": "Job posts and outreach that senior engineers answer.",
       "version": "1.0.0",
       "category": "productivity",
+      "author": {
+        "name": "Ruzora",
+        "url": "https://www.ruzora.com"
+      },
+      "homepage": "https://www.ruzora.com/skills",
+      "repository": "https://github.com/Ruzora/hiring-skills",
       "tags": [
         "hiring",
         "recruiting",
@@ -36,6 +48,12 @@
       "description": "Screen CVs, profiles and candidates fast, and catch fake ones.",
       "version": "1.0.0",
       "category": "productivity",
+      "author": {
+        "name": "Ruzora",
+        "url": "https://www.ruzora.com"
+      },
+      "homepage": "https://www.ruzora.com/skills",
+      "repository": "https://github.com/Ruzora/hiring-skills",
       "tags": [
         "hiring",
         "recruiting",
@@ -48,6 +66,12 @@
       "description": "Interview kits, take-homes, rubrics and debriefs that predict performance.",
       "version": "1.0.0",
       "category": "productivity",
+      "author": {
+        "name": "Ruzora",
+        "url": "https://www.ruzora.com"
+      },
+      "homepage": "https://www.ruzora.com/skills",
+      "repository": "https://github.com/Ruzora/hiring-skills",
       "tags": [
         "hiring",
         "recruiting",
@@ -60,6 +84,12 @@
       "description": "References, offers and contracts, including international hires.",
       "version": "1.0.0",
       "category": "productivity",
+      "author": {
+        "name": "Ruzora",
+        "url": "https://www.ruzora.com"
+      },
+      "homepage": "https://www.ruzora.com/skills",
+      "repository": "https://github.com/Ruzora/hiring-skills",
       "tags": [
         "hiring",
         "recruiting",
@@ -72,6 +102,12 @@
       "description": "Onboarding and the first 90 days, so the hire works out.",
       "version": "1.0.0",
       "category": "productivity",
+      "author": {
+        "name": "Ruzora",
+        "url": "https://www.ruzora.com"
+      },
+      "homepage": "https://www.ruzora.com/skills",
+      "repository": "https://github.com/Ruzora/hiring-skills",
       "tags": [
         "hiring",
         "recruiting",

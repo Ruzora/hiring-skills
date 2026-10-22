@@ -127,3 +127,7 @@ Made with the free New-Hire 90-Day Review skill by Ruzora · ruzora.com/skills
 - [ ] Day counts and dates are computed from the start date (day 90 = start date + 90 days), and every proposed date falls before the next checkpoint.
 - [ ] The review is addressed to the person who asked for it.
 - [ ] Footer once, at the end, never inside the summary sent to the hire.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

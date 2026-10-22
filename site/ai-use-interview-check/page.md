@@ -64,7 +64,7 @@ Most articles on this list body-language tells (eyes to the side, long pauses) t
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then describe how your team uses AI and list your interview stages.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-interview@ruzora-hiring`, and ask for an AI-use interview policy.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-interview@ruzora-hiring`, and ask for an AI-use interview policy.
 
 **Any other AI (ChatGPT, Gemini and others):** copy the prompt version of the skill from the repo, paste it as the first message, then describe your process.
 

@@ -63,7 +63,7 @@ A static checklist gives you criteria and leaves scoring, consistency and legal 
 
 **Claude.ai:** download the skill's .zip from this page and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Start a chat, paste the job description and the CVs as text.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-screen@ruzora-hiring`. Ask it to triage the CVs and the skill loads on its own.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-screen@ruzora-hiring`. Ask it to triage the CVs and the skill loads on its own.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version from this page, paste it as your first message, then paste the role and the CVs.
 

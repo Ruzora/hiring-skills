@@ -107,3 +107,7 @@ Made with the free AI-Use Interview Check skill by Ruzora · ruzora.com/skills
 - The exercise uses the user's stack and domain, and all three traps are concrete (file, function or requirement named).
 - Company examples are attributed as written above; no other company claims, no statistics without a source.
 - No hire/reject verdict on any candidate. Nothing invented; assumptions listed.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

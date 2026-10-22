@@ -139,3 +139,7 @@ Made with the free International Engineer Hiring Plan skill by Ruzora · ruzora.
 - Every question for counsel uses the user's facts.
 - No provider, EOR or vendor is named or recommended.
 - Footer appears once, at the end.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

@@ -60,7 +60,7 @@ A static deepfake checklist lists artifacts and stops. Asking a chatbot cold ten
 
 **Claude.ai:** download the skill's .zip from this page and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then paste your call notes, or ask for the script.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-screen@ruzora-hiring`. Describe the interview and the skill loads on its own.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-screen@ruzora-hiring`. Describe the interview and the skill loads on its own.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version from this page, paste it as your first message, then add your notes.
 

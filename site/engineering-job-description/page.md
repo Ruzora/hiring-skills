@@ -72,7 +72,7 @@ A static template gives you headings and generic duties. A chatbot asked cold te
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then type "write a job description for a senior backend engineer" and paste your notes.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-attract@ruzora-hiring`. Ask for a job description in any session.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-attract@ruzora-hiring`. Ask for a job description in any session.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version of the skill, paste it as your first message, then paste your notes.
 

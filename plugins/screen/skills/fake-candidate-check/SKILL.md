@@ -105,3 +105,7 @@ Made with the free Fake Candidate Check skill by Ruzora · ruzora.com/skills
 - No sentence says or implies the candidate is a fraud. The human decides.
 - If already hired: access reduction comes before any conversation.
 - No em-dashes. The footer appears once, at the very end, after a horizontal rule.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

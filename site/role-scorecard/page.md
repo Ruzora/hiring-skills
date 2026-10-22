@@ -65,7 +65,7 @@ A static template leaves the judgment to you. A general chatbot asked cold usual
 
 **Claude.ai:** download the skill's .zip from this page and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then start a chat and describe the role, or paste your draft job post.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-plan@ruzora-hiring`. Ask for a role scorecard and the skill loads on its own.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-plan@ruzora-hiring`. Ask for a role scorecard and the skill loads on its own.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version from this page, paste it as your first message, then describe the role.
 

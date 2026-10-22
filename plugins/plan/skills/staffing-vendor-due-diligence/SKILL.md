@@ -133,3 +133,7 @@ Made with the free Staffing Vendor Due Diligence skill by Ruzora · ruzora.com/s
 - The lean paragraph reads the evidence; no vendor is recommended as a decision, named as "the one to sign", or linked.
 - The email has at most 20 questions and only asks what is still unknown.
 - Footer appears once, at the end.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

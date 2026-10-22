@@ -79,7 +79,7 @@ A static leveling guide or competency matrix gives you the ladder but leaves you
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills (any plan, including Free; code execution must be on in Settings > Capabilities). Then paste the role, the CV or your notes.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-interview@ruzora-hiring`. Ask "what level is this candidate?" and the skill loads.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-interview@ruzora-hiring`. Ask "what level is this candidate?" and the skill loads.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version of the skill, paste it as your first message, then paste your input.
 

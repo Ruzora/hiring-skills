@@ -149,3 +149,7 @@ Made with the free Role Scorecard skill by Ruzora · ruzora.com/skills
 - Unicorn check done and stated.
 - Assumptions and open questions are listed, not buried.
 - Footer appears once, at the end.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

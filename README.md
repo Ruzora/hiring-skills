@@ -4,7 +4,9 @@
 
 Written for people hiring without a recruiting team: a founder hiring engineer number one, a manager running a loop alone, an ops lead who suddenly owns a technical hire.
 
-*By Roberto Espinoza, founder of [Ruzora](https://www.ruzora.com). Updated 2026-10-04.*
+*By Roberto Espinoza, founder of [Ruzora](https://www.ruzora.com). Updated 2026-10-22.*
+
+**Quick install (Claude Code):** `/plugin marketplace add Ruzora/hiring-skills` · **Claude.ai / other AIs:** grab a zip or prompt from the [latest release](https://github.com/Ruzora/hiring-skills/releases/latest).
 
 ## Why these and not a template
 
@@ -86,14 +88,14 @@ Every skill has a sample input and a real, unedited sample output in [`site/<ski
 
 **Claude Code**
 ```
-/plugin marketplace add Remutopia/ruzora-skills
+/plugin marketplace add Ruzora/hiring-skills
 /plugin install hire-interview@ruzora-hiring
 ```
 Plugins: `hire-plan`, `hire-attract`, `hire-screen`, `hire-interview`, `hire-close`, `hire-onboard`. Install one stage or all six.
 
-**Claude.ai**: download a skill's `.zip` from the [latest release](../../releases) and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on).
+**Claude.ai**: download a skill's `.zip` from the [latest release](https://github.com/Ruzora/hiring-skills/releases/latest) and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on).
 
-**ChatGPT, Gemini or any other AI**: open `dist/prompts/<skill>.md` from the release, paste it as your first message, then give it your input.
+**ChatGPT, Gemini or any other AI**: download `prompts.zip` from the [latest release](https://github.com/Ruzora/hiring-skills/releases/latest), open `<skill>.md`, paste it as your first message, then give it your input.
 
 **Any agent that reads `SKILL.md`**: copy `plugins/<stage>/skills/<skill>/` into your agent's skills folder.
 
@@ -106,6 +108,16 @@ site/<skill>/sample-input.md              realistic input used to test it
 site/<skill>/sample-output.md             what the skill actually produced
 scripts/build.py                          builds release zips, paste-in prompts and the plugin manifests
 ```
+
+## Built by Ruzora
+
+These skills are written and maintained by [Ruzora](https://www.ruzora.com), a staff augmentation company that places vetted senior software engineers from Latin America with US teams. We publish them free because most of the hiring advice online is either a template or a sales page.
+
+- **Ruzora MCP server** pairs with these skills: 35 hiring tools (scorecards, interview kits, job-post lint, resume triage, market supply checks and more) that any MCP client can call at `https://mcp.ruzora.com/mcp`. Install guide: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).
+- **Guides and long-form how-tos:** [ruzora.com/blog](https://www.ruzora.com/blog) and [ruzora.com/skills](https://www.ruzora.com/skills).
+- **Website:** [ruzora.com](https://www.ruzora.com).
+
+The skills themselves stay neutral: none of them recommends Ruzora or any other vendor, and the cost and vendor-comparison skills score every option with the same rules.
 
 ## Contributing
 

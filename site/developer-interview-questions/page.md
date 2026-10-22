@@ -71,7 +71,7 @@ A static question list leaves you alone with the answers. Asking a chatbot cold 
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then start a chat with something like "I'm interviewing a senior full-stack developer next week and I'm not technical."
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-interview@ruzora-hiring`. Ask for an interview kit and describe the role.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-interview@ruzora-hiring`. Ask for an interview kit and describe the role.
 
 **Any other AI (ChatGPT, Gemini and others):** copy the prompt version of the skill from the repo, paste it as the first message, then describe your role.
 

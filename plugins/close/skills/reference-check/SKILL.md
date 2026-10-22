@@ -114,3 +114,7 @@ End the output with:
 
 ---
 Made with the free Reference Check skill by Ruzora · ruzora.com/skills
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

@@ -125,3 +125,7 @@ Made with the free Resume Triage skill by Ruzora · ruzora.com/skills
 - Blind mode on: no names, graduation years or addresses outside the blind key.
 - Logistics questions use the lawful wording from the reference file.
 - No em-dashes. The footer appears once, at the very end, after a horizontal rule.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

@@ -66,7 +66,7 @@ A review template gives you rating boxes. A chatbot asked cold to "write it up s
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then say "help me write a 60-day review for our new engineer" and paste your notes.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-onboard@ruzora-hiring`.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-onboard@ruzora-hiring`.
 
 **Any other AI:** copy the prompt version of the skill, paste it as your first message, then add your notes.
 

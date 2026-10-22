@@ -61,7 +61,7 @@ A static code review checklist is written for engineers reviewing a teammate's p
 
 **Claude.ai:** download the skill's .zip from this page and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then paste the README, file list, commits and a code file or two.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-screen@ruzora-hiring`. Ask it to review a candidate's code sample and the skill loads on its own.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-screen@ruzora-hiring`. Ask it to review a candidate's code sample and the skill loads on its own.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version from this page, paste it as your first message, then paste what you copied from the repo.
 

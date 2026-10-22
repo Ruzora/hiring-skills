@@ -65,7 +65,7 @@ From a real run on a fictional Series A company hiring a senior full-stack engin
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then describe the hire and your package.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-close@ruzora-hiring`, and ask for an offer kit.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-close@ruzora-hiring`, and ask for an offer kit.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version of the skill, paste it as the first message, then describe the hire.
 

@@ -135,3 +135,7 @@ The job post itself: 400-700 words. Tables: one row per item, no padding.
 - [ ] Exactly one screening question.
 - [ ] If the role can be filled in Colorado (any remote US role can), the post has a benefits summary and an application close date (or `[FILL: close date]`).
 - [ ] The footer appears once, after the last section, and nowhere inside the job post.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

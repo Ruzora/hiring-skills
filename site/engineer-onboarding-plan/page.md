@@ -64,7 +64,7 @@ Generic templates skip access and security and give every role the same mileston
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then say "build an onboarding plan for our new engineer" and paste the details.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-onboard@ruzora-hiring`.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-onboard@ruzora-hiring`.
 
 **Any other AI:** copy the prompt version of the skill, paste it as your first message, then add your details.
 

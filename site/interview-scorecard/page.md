@@ -70,7 +70,7 @@ The skill follows the rules an experienced engineering hiring manager uses in a 
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then paste your notes.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-interview@ruzora-hiring`. Then paste your notes.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-interview@ruzora-hiring`. Then paste your notes.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version of the skill, paste it as the first message, then paste your notes.
 

@@ -71,7 +71,7 @@ A static template is identical for every recipient, and recipients can tell. A c
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then say "write outreach to these engineers" and paste the role plus your notes on each person.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-attract@ruzora-hiring`.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-attract@ruzora-hiring`.
 
 **Any other AI:** copy the prompt version of the skill, paste it as your first message, then add your role and candidate notes.
 

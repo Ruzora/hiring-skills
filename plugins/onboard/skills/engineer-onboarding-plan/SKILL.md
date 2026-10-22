@@ -112,3 +112,7 @@ Made with the free Engineer Onboarding Plan skill by Ruzora · ruzora.com/skills
 - [ ] Every checklist line has an owner and a date.
 - [ ] No invented facts about the company, its tools or its people; unknowns are `[FILL: ...]`.
 - [ ] Footer once, at the end.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

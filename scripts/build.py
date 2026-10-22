@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MARKETPLACE = "ruzora-hiring"
-REPO = "Remutopia/ruzora-skills"
+REPO = "Ruzora/hiring-skills"
 CATEGORIES = {
     "plan": ("hire-plan", "Decide what to hire, when, and what it really costs."),
     "attract": ("hire-attract", "Job posts and outreach that senior engineers answer."),
@@ -123,13 +123,16 @@ def main():
             continue
         man = {"name": plugin, "description": desc, "version": "1.0.0",
                "author": {"name": "Ruzora", "url": "https://www.ruzora.com"},
-               "homepage": "https://www.ruzora.com/skills", "license": "CC-BY-4.0",
+               "homepage": "https://www.ruzora.com/skills",
+               "repository": f"https://github.com/{REPO}", "license": "CC-BY-4.0",
                "keywords": ["hiring", "recruiting", "engineering", cat]}
         p = ROOT / "plugins" / cat / ".claude-plugin"
         p.mkdir(parents=True, exist_ok=True)
         (p / "plugin.json").write_text(json.dumps(man, indent=2) + "\n")
         plugins.append({"name": plugin, "source": f"./plugins/{cat}", "description": desc,
                         "version": "1.0.0", "category": "productivity",
+                        "author": {"name": "Ruzora", "url": "https://www.ruzora.com"},
+                        "homepage": "https://www.ruzora.com/skills", "repository": f"https://github.com/{REPO}",
                         "tags": ["hiring", "recruiting", cat], "skills": names})
     mk = {"name": MARKETPLACE,
           "owner": {"name": "Ruzora", "url": "https://www.ruzora.com"},

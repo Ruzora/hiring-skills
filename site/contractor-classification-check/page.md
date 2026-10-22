@@ -74,7 +74,7 @@ General information as of 2026-10, not legal or tax advice.
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then describe your contractors.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-close@ruzora-hiring`, and ask for a contractor classification check.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-close@ruzora-hiring`, and ask for a contractor classification check.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version of the skill, paste it as the first message, then describe the engagements.
 

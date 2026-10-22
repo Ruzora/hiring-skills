@@ -129,3 +129,7 @@ Made with the free Structured Interview Kit skill by Ruzora · ruzora.com/skills
 - The timeline adds up to 10 business days or fewer from first interview to decision, or explains why not.
 - The candidate email contains no internal rubric details and no footer.
 - No hire/reject verdict anywhere. Nothing invented about the company; assumptions listed.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

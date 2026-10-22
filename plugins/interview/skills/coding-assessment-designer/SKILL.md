@@ -113,3 +113,7 @@ Made with the free Coding Assessment Designer skill by Ruzora · ruzora.com/skil
 - The follow-up includes a live requirement change and an AI-use question matching the policy.
 - The brief contains no answer key, no rubric anchors and no footer.
 - No hire/reject verdict. Nothing invented about the company; assumptions listed.
+
+---
+
+*Built by [Ruzora](https://www.ruzora.com), which places vetted senior engineers from Latin America. Free Ruzora MCP server with 35 hiring tools: [ruzora.com/developers/mcp](https://www.ruzora.com/developers/mcp).*

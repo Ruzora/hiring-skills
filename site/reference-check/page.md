@@ -61,7 +61,7 @@ Sick-day question removed: protected territory. Use the reliability question abo
 
 **Claude.ai:** download the skill's .zip and upload it under Customize > Skills in Claude (any plan, including Free; code execution must be on). Then paste your debrief notes and the referee list.
 
-**Claude Code:** run `/plugin marketplace add Remutopia/ruzora-skills`, then `/plugin install hire-close@ruzora-hiring`, and ask for a reference check plan.
+**Claude Code:** run `/plugin marketplace add Ruzora/hiring-skills`, then `/plugin install hire-close@ruzora-hiring`, and ask for a reference check plan.
 
 **Any other AI (ChatGPT, Gemini, Copilot):** copy the prompt version of the skill, paste it as the first message, then add your notes.
 
